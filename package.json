@@ -142,7 +142,7 @@
     "babel-plugin-transform-remove-console": "6.9.4",
     "base-64": "1.0.0",
     "bignumber.js": "^9.0.1",
-    "buffer": "5.2.1",
+    "buffer": "6.0.3",
     "compare-versions": "^3.6.0",
     "content-hash": "2.5.2",
     "dnode": "1.2.2",
