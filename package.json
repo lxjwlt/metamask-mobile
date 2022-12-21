@@ -269,7 +269,7 @@
     "@metamask/eslint-config-typescript": "^7.0.0",
     "@metamask/mobile-provider": "^2.1.0",
     "@react-native-community/eslint-config": "^2.0.0",
-    "@storybook/addon-actions": "^5.3",
+    "@storybook/addon-actions": "^6.5",
     "@storybook/addon-knobs": "^5.3",
     "@storybook/addon-links": "^5.3",
     "@storybook/addon-ondevice-actions": "^5.3.23",
